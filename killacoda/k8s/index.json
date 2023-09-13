@@ -12,6 +12,11 @@
           "text": "step1.md"
         }
       ],
+      "assets": {
+        "host01": [
+          {"file": "deploy.yaml", "target": "/root", "chmod": "+w"}
+        ]
+      },
       "finish": {
         "text": "finish.md"
       }
