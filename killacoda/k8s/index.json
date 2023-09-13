@@ -1,6 +1,6 @@
 {
-    "title": "ShellGpt",
-    "description": "Let's do some ShellGpt",
+    "title": "K8sGPT",
+    "description": "Let's do some K8sGPT",
     "details": {
       "intro": {
         "text": "intro.md",
